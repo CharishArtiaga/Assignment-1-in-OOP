@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\Assignment1 in OOP\Assignment1 in OOP\bin\Debug\net8.0-windows\Assignment1 in OOP.exe
+C:\Users\USER\source\repos\Assignment1 in OOP\Assignment1 in OOP\bin\Debug\net8.0-windows\Assignment1 in OOP.deps.json
+C:\Users\USER\source\repos\Assignment1 in OOP\Assignment1 in OOP\bin\Debug\net8.0-windows\Assignment1 in OOP.runtimeconfig.json
+C:\Users\USER\source\repos\Assignment1 in OOP\Assignment1 in OOP\bin\Debug\net8.0-windows\Assignment1 in OOP.dll
+C:\Users\USER\source\repos\Assignment1 in OOP\Assignment1 in OOP\bin\Debug\net8.0-windows\Assignment1 in OOP.pdb
+C:\Users\USER\source\repos\Assignment1 in OOP\Assignment1 in OOP\obj\Debug\net8.0-windows\Assignment1_in_OOP.Form1.resources
+C:\Users\USER\source\repos\Assignment1 in OOP\Assignment1 in OOP\obj\Debug\net8.0-windows\Assignment1 in OOP.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Assignment1 in OOP\Assignment1 in OOP\obj\Debug\net8.0-windows\Assignment1 in OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Assignment1 in OOP\Assignment1 in OOP\obj\Debug\net8.0-windows\Assignment1 in OOP.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Assignment1 in OOP\Assignment1 in OOP\obj\Debug\net8.0-windows\Assignment1 in OOP.AssemblyInfo.cs
+C:\Users\USER\source\repos\Assignment1 in OOP\Assignment1 in OOP\obj\Debug\net8.0-windows\Assignment1 in OOP.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Assignment1 in OOP\Assignment1 in OOP\obj\Debug\net8.0-windows\Assignment1 in OOP.dll
+C:\Users\USER\source\repos\Assignment1 in OOP\Assignment1 in OOP\obj\Debug\net8.0-windows\refint\Assignment1 in OOP.dll
+C:\Users\USER\source\repos\Assignment1 in OOP\Assignment1 in OOP\obj\Debug\net8.0-windows\Assignment1 in OOP.pdb
+C:\Users\USER\source\repos\Assignment1 in OOP\Assignment1 in OOP\obj\Debug\net8.0-windows\Assignment1 in OOP.genruntimeconfig.cache
+C:\Users\USER\source\repos\Assignment1 in OOP\Assignment1 in OOP\obj\Debug\net8.0-windows\ref\Assignment1 in OOP.dll
+C:\Users\USER\source\repos\Assignment1 in OOP\Assignment1 in OOP\obj\Debug\net8.0-windows\Assignment1 in OOP.sourcelink.json
